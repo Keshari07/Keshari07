@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi Learning 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshribhan-suryavanshi-740990199/)](https://linkedin.com/in/keshribhan-suryavanshi-740990199/)
+[![Hackerrank](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.hackerrank.com/keshari0921)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/12645746-)
 
+
+I'm
+Student in Indira Gandhi Engineering College, Sagar is an institute of engineering and technology education in Madhya Pradesh, India.
+Languages and Tools:
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> 
+   <img alt="java" src="https://img.shields.io/badge/angular-%230031.svg?flat-square logo=java logo Color=white"/>
+  <img alt="java" src="https://img.shields.io/badge/angular-%230031.svg?flat-square logo=java logo Color=white"/>
 <!--
 **Keshari07/Keshari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
