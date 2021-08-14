@@ -5,8 +5,10 @@
 
 
 I'm
+
 Student in Indira Gandhi Engineering College, Sagar is an institute of engineering and technology education in Madhya Pradesh, India.
 Languages and Tools:
+
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
