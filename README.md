@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ### Hi I am Linux System Admin(HPCSA)  👋
 [![Linkedin Badge](https://img.shields.io/badge/-Keshri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshribhan-suryavanshi-740990199/)](https://linkedin.com/in/keshribhan-suryavanshi-740990199/)
 [![Hackerrank](https://img.shields.io/badge/WebSite-Keshri-green)](https://www.hackerrank.com/keshari0921)
@@ -58,7 +59,6 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
-    [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <br/>
 <!--
 **Keshari07/Keshari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
