@@ -11,11 +11,10 @@ Skills:Linux, Python and HPC System, Bash scripting,VMware.
 Technologies and Tools Technologies: (High performance Computing) | Linux| Python | Cloud | AWS | DevOps | Docker | Kubernetes | Jenkins | Networking | Perl | Hadoop | Storage| VMware | .
 Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
 <br></br>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
-   
+ <!--  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
+-->
    ![Visitor Count](https://profile-counter.glitch.me/Keshari07/count.svg)
 <br>
-![View](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=for-the-badge&label=PROFILE+VIEWS)
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -26,6 +25,10 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td> 
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>bash
+    </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="kali" />
       <br>Kali
@@ -38,23 +41,14 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
         <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="arch" />
       <br>Arch
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br>AWS
-    </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
       <br>Debian
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td> 
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=perl" width="48" height="48" alt="perl" />
       <br>Perl
     </td>
-      debian
+      
   </tr>
   <tr>
     <td align="center" width="96">
@@ -71,9 +65,22 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+      <br>Kubernetes
+    </td>
+      </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+      <br>AWS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td> 
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+      <br>Graphql
     </td>
   </tr>
   <tr>
@@ -101,6 +108,10 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
   </tr>
  <tr>
  </tr>
@@ -112,7 +123,7 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Keshari07&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshari07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshari07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -149,7 +160,7 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
   <br/>
  
    <a href="https://github.com/Keshari07/File-Server_Ubuntu-lB-06-Aug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=telegram-bot-template&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=File-Server_Ubuntu-lB-06-Aug&theme=default" />
  </a>
 
 
