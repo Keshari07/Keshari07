@@ -15,7 +15,153 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
    
    ![Visitor Count](https://profile-counter.glitch.me/Keshari07/count.svg)
 <br>
-   
+![View](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=for-the-badge&label=PROFILE+VIEWS)
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td> 
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="kali" />
+      <br>Kali
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="arch" />
+      <br>Arch
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <br>AWS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
+      <br>Debian
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td> 
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=perl" width="48" height="48" alt="perl" />
+      <br>Perl
+    </td>
+      debian
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshari's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Keshari07&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Keshri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshari07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <!-- ![View](https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS) -->
+  <img src="https://komarev.com/ghpvc/?username=Keshari07&color=yellow&style=for-the-badge&label=PROFILE+VIEWS">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/@Keshari07/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/Keshari07/Setup_Apache_IXS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=Setup_Apache_IXS&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/Keshari07/Load_Balancing_Project_Linux_25_July">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=Load_Balancing_Project_Linux_25_July&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/Keshari07/File-Server_Ubuntu-lB-06-Aug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=telegram-bot-template&theme=default" />
+ </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/Keshari07/Dockerizing-and-orchestrating-with-K8S-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keshari07&repo=Dockerizing-and-orchestrating-with-K8S-&theme=default" />
+ </a>
+ 
+</details>
+<!--   
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
@@ -62,6 +208,7 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
 <br/>
 <!--
 **Keshari07/Keshari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 -->
 
 
