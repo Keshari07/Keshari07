@@ -78,10 +78,10 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td> 
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-      <br>Graphql
-    </td>
+         <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+
   </tr>
   <tr>
     <td align="center" width="96">
@@ -109,8 +109,8 @@ Tools: xCAT, Nagios, LVM, RAID, Lustre, Slurm.
       <br>PostgreSQL
     </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+      <br>Graphql
     </td>
   </tr>
  <tr>
